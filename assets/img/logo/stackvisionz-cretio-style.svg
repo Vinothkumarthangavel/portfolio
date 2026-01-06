@@ -1,0 +1,22 @@
+<svg width="520" height="140" viewBox="0 0 520 140" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(20,20)">
+    <path d="M40 0 L80 20 L60 60 L20 40 Z" fill="#0B0D1C"/>
+    <path d="M40 20 L60 30 L40 60 L20 50 Z" fill="#0B0D1C" opacity="0.85"/>
+  </g>
+  <text x="130" y="70"
+        font-size="40"
+        font-weight="700"
+        letter-spacing="1.5"
+        fill="#0B0D1C"
+        font-family="Poppins, Montserrat, Arial, sans-serif">
+    STACKVISIONZ
+  </text>
+  <text x="132" y="102"
+        font-size="14"
+        letter-spacing="3"
+        fill="#0B0D1C"
+        opacity="0.75"
+        font-family="Poppins, Montserrat, Arial, sans-serif">
+    DIGITAL PRESENCE
+  </text>
+</svg>
